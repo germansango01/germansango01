@@ -1,33 +1,45 @@
-# 👋 Hi! I'm Germán Contreras, a Full Stack Web Developer
+# 👋 Hello Everyone! I'm Germán Contreras, A Full Stack Developer 💻
 
-Passionate about web development, focused on building efficient and scalable solutions. I love working with the PHP/Laravel ecosystem on the backend and enhancing the user experience with Vue/Nuxt on the frontend.
-
----
-
-## 🛠 Technologies and Tools
-
-Here are the main technologies I work with:
-
-### Backend y Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Frontend y Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-00C582?style=for-the-badge&logo=nuxt.js&logoColor=white)
+I'm a developer passionate about creating robust and dynamic web experiences. I focus on **backend** solutions with **PHP** and **Laravel**, and on the **frontend** I bring interfaces to life with **Vue.js** and **Nuxt.js**. I also have experience with **Python** for scripting and applications. Always learning and building!
 
 ---
 
-## 📈 GitHub Statistics
+## 🚀 My Tech Stack
 
-[![Your GitHub Stats Profile](https://github-readme-stats.vercel.app/api?username=[Your_Username]&show_icons=true&theme=vue)](https://github.com/germansango01)
+Here are the tools and languages I enjoy working with:
+
+### 🌐 Core Programming Languages
+
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+<br/>
+
+### 🧠 Backend & Frameworks
+
+![Laravel Wordmark](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg)
+<br/>
+
+### 🖼️ Frontend & User Experience
+
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg)
+![Nuxt.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxt/nuxt-original.svg)
 
 ---
 
-## 📧 Connect With Me
+## 📊 GitHub Stats (Check out my activity!)
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your_Username]&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/[Your_Username])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_Username]&layout=compact&theme=radical&hide_border=true)](https://github.com/[Your_Username])
+
+---
+
+## 📬 Let's Connect!
+
+I'm always open to collaborating on interesting projects or just chatting about technology.
 
 * **LinkedIn:** [Your LinkedIn Link]
+* **Portfolio:** [Your Personal Website/Portfolio]
+* **Email:** [your.email@example.com]
