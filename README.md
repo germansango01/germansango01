@@ -4,7 +4,7 @@
 
 # 👋 Hello Everyone! I'm Germán Contreras, A Full Stack Developer 💻
 
-I'm a developer passionate about creating robust and dynamic web experiences. I focus on **backend** solutions with **PHP** and **Laravel**, and on the **frontend** I bring interfaces to life with **Vue.js** and **Nuxt.js**. I also have experience with **Python** for scripting and applications. Always learning and building!
+I'm a developer passionate about creating robust and dynamic web experiences. I focus on **backend** solutions with **PHP** and **Laravel**, and on the **frontend** I bring interfaces to life with **Vue.js** and **Nuxt.js**. I also have experience with **Python**. Always learning and building!
 
 ---
 
