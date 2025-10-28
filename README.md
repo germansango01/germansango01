@@ -15,24 +15,24 @@ Here are the tools and languages I enjoy working with:
 ### 🌐 Core Programming Languages
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right: 5px;" title="Python" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="padding-right: 5px;" title="PHP" alt="PHP" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right: 5px;" title="Python" alt="Python" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="padding-right: 5px;" title="PHP" alt="PHP" width="60" height="60" />
 </div>
 
 ### 🧠 Backend Frameworks
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg" style="padding-right: 5px;" title="Laravel" alt="Laravel" width="80" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" style="padding-right: 5px;" title="NestJs" alt="NestJs" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" style="padding-right: 5px;" title="Laravel" alt="Laravel" width="60" height="60"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" style="padding-right: 5px;" title="NestJs" alt="NestJs" width="60" height="60" />
 </div>
 
 ### 🖼️ Frontend & User Experience
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="padding-right: 5px;" title="HTML5" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="padding-right: 5px;" title="CSS3" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right: 5px;" title="JavaScript" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="padding-right: 5px;" title="Vue.js" alt="Vue.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxt/nuxt-original.svg" style="padding-right: 5px;" title="Nuxt.js" alt="Nuxt.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="padding-right: 5px;" title="HTML5" alt="HTML5" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="padding-right: 5px;" title="CSS3" alt="CSS3" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right: 5px;" title="JavaScript" alt="JavaScript" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="padding-right: 5px;" title="Vue.js" alt="Vue.js" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxt/nuxt-original.svg" style="padding-right: 5px;" title="Nuxt.js" alt="Nuxt.js" width="60" height="60" />
 </div>
 
 ---
