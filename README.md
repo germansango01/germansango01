@@ -10,22 +10,22 @@ Here are the tools and languages I enjoy working with:
 
 ### 🌐 Core Programming Languages
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 <br/>
 
 ### 🧠 Backend & Frameworks
 
-![Laravel Wordmark](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg" alt="Laravel" width="100" height="40"/> 
 <br/>
 
 ### 🖼️ Frontend & User Experience
 
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg)
-![Nuxt.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxt/nuxt-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxt/nuxt-original.svg" alt="Nuxt.js" width="40" height="40"/>
 
 ---
 
