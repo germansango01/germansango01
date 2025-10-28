@@ -16,7 +16,7 @@ Here are the tools and languages I enjoy working with:
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right: 5px;" title="Python" alt="Python" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="padding-right: 5px;" title="PHP" alt="PHP" width="70" height="70" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="padding-right: 5px;" title="PHP" alt="PHP" width="75" height="75" />
 </div>
 
 ### 🧠 Backend Frameworks
@@ -32,7 +32,7 @@ Here are the tools and languages I enjoy working with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="padding-right: 5px;" title="HTML5" alt="HTML5" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="padding-right: 5px;" title="CSS3" alt="CSS3" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right: 5px;" title="JavaScript" alt="JavaScript" width="60" height="60" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="padding-right: 5px;" title="Typescript" alt="Typescript" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="padding-right: 5px;" title="Typescript" alt="Typescript" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="padding-right: 5px;" title="Vue.js" alt="Vue.js" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxt/nuxt-original.svg" style="padding-right: 5px;" title="Nuxt.js" alt="Nuxt.js" width="60" height="60" />
 </div>
