@@ -1,45 +1,91 @@
-# 👋 Hello Everyone! I'm Germán Contreras, A Full Stack Developer 💻
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
+  
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/patricio-m-690b3729/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/@thefreerangetester">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://twitter.com/RangeTester">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=thefreerangetester&color=blue" alt="Profile views count"/>
+  
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-I'm a developer passionate about creating robust and dynamic web experiences. I focus on **backend** solutions with **PHP** and **Laravel**, and on the **frontend** I bring interfaces to life with **Vue.js** and **Nuxt.js**. I also have experience with **Python** for scripting and applications. Always learning and building!
-
----
-
-## 🚀 My Tech Stack
-
-Here are the tools and languages I enjoy working with:
-
-### 🌐 Core Programming Languages
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<br/>
-
-### 🧠 Backend & Frameworks
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg" alt="Laravel" width="100" height="40"/> 
-<br/>
-
-### 🖼️ Frontend & User Experience
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxt/nuxt-original.svg" alt="Nuxt.js" width="40" height="40"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats (Check out my activity!)
+### 🧑‍💻 About Me
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your_Username]&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/[Your_Username])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_Username]&layout=compact&theme=radical&hide_border=true)](https://github.com/[Your_Username])
+I am a **Software Test Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
+
+* :telescope: I’m working as a **Senior Test Engineer Contractor** and contributing to projects both in Wellington and remotely around all New Zealand and Australia.
+* :seedling: Mentoring the new generations of Test Engineers in New Zealand through [DevAcademy Aotearoa](https://devacademy.co.nz/testing-automation-essentials/).
+* :zap: In my free time, I create content for [Free Range Testers](https://www.freerangetesters.com/) and make music on [Modern Druids](https://open.spotify.com/intl-es/artist/1n8lYlkH7XKivKBmh6oey1/).
+* :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-m-690b3729)
 
 ---
 
-## 📬 Let's Connect!
+### 🔨 Languages and Dev Tools
 
-I'm always open to collaborating on interesting projects or just chatting about technology.
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+</div>
 
-* **LinkedIn:** [Your LinkedIn Link]
-* **Portfolio:** [Your Personal Website/Portfolio]
-* **Email:** [your.email@example.com]
+---
+
+### 🐞 Testing Tools
+
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CypressIO" alt="CypressIO" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>
+</div>
+
+---
+
+### 🔥 My Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thefreerangetester" alt="thefreerangetester" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=thefreerangetester&theme=dark&background=000000" width="600"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefreerangetester&layout=compact&theme=vision-friendly-dark" width="600"/>
+</div>
