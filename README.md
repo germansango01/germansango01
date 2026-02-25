@@ -71,8 +71,6 @@ I am a developer with a solid technical foundation in multiple frameworks. Altho
 
 ## 📊 GitHub Analysis
 
-## 📊 GitHub Analysis
-
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=germansango01&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/germansango01)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germansango01&layout=compact&theme=radical&hide_border=true)](https://github.com/germansango01)
 
